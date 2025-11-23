@@ -1,5 +1,5 @@
-##Hello!
+## Qwack!
 
-Kali Linux Cheatsheet I made for ducklings in CTF!
+This is a Kali Linux Cheatsheet I made for ducklings in CTF!
 
-Feel Free to contact me if I made a mistake in the cheatsheet
+Feel Free to contact me if I made a mistake in the cheatsheet. Thank you!!
